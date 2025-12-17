@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-8%2B-red?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Made with](https://img.shields.io/badge/Made%20with-Claude-orange?logo=anthropic)](https://www.anthropic.com/)
-[![Author](https://img.shields.io/badge/Author-YourName-lightgrey)](https://github.com/yourusername)
+[![Author](https://img.shields.io/badge/Author-MikiMameme-lightgrey)](https://github.com/MikiMameme)
 
 ![スクリーンショット](screenshot.png)
 
