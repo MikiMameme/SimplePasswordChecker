@@ -5,7 +5,7 @@
 [![Made with](https://img.shields.io/badge/Made%20with-Claude-orange?logo=anthropic)](https://www.anthropic.com/)
 [![Author](https://img.shields.io/badge/Author-MikiMameme-lightgrey)](https://github.com/MikiMameme)
 
-![スクリーンショット](screenshot.png)
+![スクリーンショット]([screenshot.png](https://github.com/MikiMameme/SimplePasswordChecker/blob/main/Screenshot.png))
 
 ## 概要
 よく使われるパスワードと、単純なパスワードを「危険なパスワード」と定義し、複雑で長いパスワードほど「安全なパスワード」と表示するGUIアプリケーションです。
