@@ -44,11 +44,11 @@
 - Windows / macOS / Linux
   
 ## ファイル構成
--password-checker_jar      #Jarファイル  
+-password-checker_jar       # Jarファイル  
 -PasswordCheckerGUI.java    # メインプログラム  
--bad_password.txt            # 危険なパスワード辞書  
--README.md                   # このファイル  
--screenshot.png              # スクリーンショット  
+-bad_password.txt           # 危険なパスワード辞書  
+-README.md                  # このファイル  
+-screenshot.png             # スクリーンショット  
 
 
 ## 学習ポイント
