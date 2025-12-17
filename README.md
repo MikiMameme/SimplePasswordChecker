@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-8%2B-red?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Made with](https://img.shields.io/badge/Made%20with-Claude-orange?logo=anthropic)](https://www.anthropic.com/)
-[![Author](https://img.shields.io/badge/Author-MikiMameme-lightgrey)](https://github.com/MikiMameme)
+[![Author](https://img.shields.io/badge/Author-Miki Mame-lightgrey)](https://github.com/MikiMameme)
 
 ![スクリーンショット](https://github.com/MikiMameme/SimplePasswordChecker/blob/main/Screenshot.png)
 
