@@ -31,7 +31,7 @@
 5. **記号**: !@#$% などの特殊文字を含む
 6. **辞書チェック**: よく使われる危険なパスワードでないか
 
-## 危険なパスワード辞書
+## パスワード辞書
 `bad_password.txt` には以下のような日本人が設定しがちな危険なパスワードが含まれています：
 - 数字の連番（123456, 111111 など）
 - よくある単語（password, qwerty など）
@@ -46,7 +46,7 @@
 ## ファイル構成
 -password-checker_jar (jarファイル)  
 -PasswordCheckerGUI.java (メインプログラム)  
--bad_password.txt (危険なパスワード辞書)  
+-bad_password.txt (パスワード辞書)  
 -README.md (このファイル)  
 -screenshot.png (スクリーンショット)  
 
